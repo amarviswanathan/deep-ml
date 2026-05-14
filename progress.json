@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-11-06T19:18:40.648Z",
+  "items": {
+    "lab:12": {
+      "kind": "lab",
+      "id": "12",
+      "title": "PyTorch: Implement Your Own Gradient Descent Training Step",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/12",
+      "path": "labs/0012-pytorch-implement-your-own-gradient-descent-training-step",
+      "first_solved_at": "2026-05-14T21:20:38.141Z",
+      "last_pushed_at": "2026-05-14T21:20:38.141Z",
+      "language": "python",
+      "lines": 76
+    },
+    "lab:10": {
+      "kind": "lab",
+      "id": "10",
+      "title": "Design Your Own Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Attention & Transformers",
+      "url": "https://www.deep-ml.com/labs/10",
+      "path": "labs/0010-design-your-own-attention-mechanism",
+      "first_solved_at": "2026-05-14T21:39:57.746Z",
+      "last_pushed_at": "2026-05-14T21:39:57.746Z",
+      "language": "python",
+      "lines": 34
+    }
+  }
+}
