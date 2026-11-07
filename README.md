@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**5** solved · 2 problems · 3 labs · 0 math
+**6** solved · 3 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-11-07 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-06 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-06 | [solution](problems/0023-softmax-activation-function-implementation) |
 
