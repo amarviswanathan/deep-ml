@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 8 problems · 3 labs · 0 math
+**12** solved · 9 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-11-07 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-07 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-11-07 | [solution](problems/0901-implement-dropout-from-scratch) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-08 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-06 | [solution](problems/0039-implementation-of-log-softmax-function) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-07 | [solution](problems/1234-one-sgd-update-step) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-06 | [solution](problems/0023-softmax-activation-function-implementation) |
