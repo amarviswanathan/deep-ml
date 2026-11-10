@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 10 problems · 3 labs · 0 math
+**14** solved · 11 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-10 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-07 | [solution](problems/1234-one-sgd-update-step) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-06 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Implement Masked Self-Attention](https://www.deep-ml.com/problems/107) | medium | 2026-11-10 | [solution](problems/0107-implement-masked-self-attention) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-08 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [SGD with Momentum Step](https://www.deep-ml.com/problems/1235) | medium | 2026-11-07 | [solution](problems/1235-sgd-with-momentum-step) |
 
