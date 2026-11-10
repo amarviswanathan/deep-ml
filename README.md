@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 9 problems · 3 labs · 0 math
+**13** solved · 10 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-11-07 | [solution](problems/0901-implement-dropout-from-scratch) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-11-08 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implementation of Log Softmax Function](https://www.deep-ml.com/problems/39) | easy | 2026-11-06 | [solution](problems/0039-implementation-of-log-softmax-function) |
+| [Mean Squared Error from Scratch](https://www.deep-ml.com/problems/1228) | easy | 2026-11-10 | [solution](problems/1228-mean-squared-error-from-scratch) |
 | [One SGD Update Step](https://www.deep-ml.com/problems/1234) | easy | 2026-11-07 | [solution](problems/1234-one-sgd-update-step) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-11-06 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-11-08 | [solution](problems/0053-implement-self-attention-mechanism) |
