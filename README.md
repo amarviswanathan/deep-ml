@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**22** solved · 19 problems · 3 labs · 0 math
+**23** solved · 20 problems · 3 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,6 +13,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Accuracy Score](https://www.deep-ml.com/problems/36) | easy | 2026-11-10 | [solution](problems/0036-calculate-accuracy-score) |
+| [Calculate LoRA Trainable Parameter Count vs Full Fine-Tuning](https://www.deep-ml.com/problems/867) | easy | 2026-11-11 | [solution](problems/0867-calculate-lora-trainable-parameter-count-vs-full-fine-tuning) |
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-11-07 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-11-07 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Implement Dropout from Scratch](https://www.deep-ml.com/problems/901) | easy | 2026-11-07 | [solution](problems/0901-implement-dropout-from-scratch) |
